@@ -21,7 +21,7 @@ Python 3.x installed on your machine.
 ### Instructions:
 1.Place the JSON input file in the project directory: Ensure you have a valid JSON file (e.g., example_orders.json) in the project directory. This file should contain the orders in the correct format.
 2.Run the Python Script: You can run the script using the following command:
-## python3 order_processor.py <input_json_file>
+"python3 midproject.py example_orders.json"
 3.Check the Output: After running the script, you will find two output files in the project directory:
 customers.json: Contains the customer information.
 items.json: Contains the item information, including item price and the number of orders for each item.
